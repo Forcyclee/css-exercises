@@ -1,0 +1,19 @@
+p {
+    background-color: #FFC0CB;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#nmbrTwo{
+    color: #00BFFF;
+    font-size: 36px;
+}
+
+.nmbrThree{
+    font-size: 24px;
+}
+
+#nmbrFour{
+    background-color: #32CD32;
+    font-size: 24px;
+    font-weight: bold;
+}
